@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+}
+.center{
+    text-align: center;
+    color: white;
+    
+}
+form{
+    background-color: green;
+    border-radius: 20px;
+    
+    
+
+    
+}
+button{
+    margin-top: 1%;
+}
